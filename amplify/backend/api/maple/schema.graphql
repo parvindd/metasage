@@ -1,0 +1,5 @@
+type Post @model @auth(rules: [{allow: public, operations: [create, read, update]}, {allow: owner}, {allow: private}]) {
+  id: ID!
+  title: String
+  content: String
+}
