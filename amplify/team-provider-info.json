@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-maple-dev-133846-authRole",
+      "UnauthRoleArn": "arn:aws:iam::717391977203:role/amplify-maple-dev-133846-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::717391977203:role/amplify-maple-dev-133846-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-maple-dev-133846-deployment",
+      "UnauthRoleName": "amplify-maple-dev-133846-unauthRole",
+      "StackName": "amplify-maple-dev-133846",
+      "StackId": "arn:aws:cloudformation:us-east-1:717391977203:stack/amplify-maple-dev-133846/690026a0-440b-11ed-97db-12c54dd63ab9",
+      "AmplifyAppId": "d3l8tt6831q3hi"
+    }
+  }
+}
